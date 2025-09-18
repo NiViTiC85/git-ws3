@@ -9,3 +9,4 @@ This is a small Python program that prints Pascal's triangle.
 # Ny rad här
 # ännu mera text
 # Nu kommer ännu mera rader
+# och nu ännu mera rader
