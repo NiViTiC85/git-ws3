@@ -1,3 +1,4 @@
+# Kod som är en del av övning i Git
 # Printing Pascal's Triangle
 
 This is a small Python program that prints Pascal's triangle.
